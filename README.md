@@ -17,7 +17,7 @@ A Flutter-based application that integrates with the Gemini API to provide users
 - **Expandable Database:** While we currently have detailed data on CPUs, we are continuously expanding our database to include more components such as GPUs, RAM, SSDs, and motherboards.
 
 ## Additional Pages
-- [Parameters for connections between CPU, RAM, SSD, Motherboard](Parameter.md) - This page provides detailed information about the compatibility and connections between CPU, RAM, SSD, and Motherboard components. It covers essential parameters and considerations for building a PC to ensure optimal performance and compatibility.
+- [Parameters for connections between CPU, RAM, SSD, Motherboard](Parameters.md) - This page provides detailed information about the compatibility and connections between CPU, RAM, SSD, and Motherboard components. It covers essential parameters and considerations for building a PC to ensure optimal performance and compatibility.
 
 
 ## Team
