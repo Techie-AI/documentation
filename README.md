@@ -22,11 +22,14 @@ A Flutter-based application that integrates with the Gemini API to provide users
 
 ## Team
 
-- **Rohit Agarwal** Project Lead
+- **Rohit Agarwal** 
+  - Project Lead
   - Rohit is the visionary behind TechieAi, bringing together his expertise in AI and a passion for technology to lead the team in developing innovative solutions.
-- **Ankit Dhanawat** Flutter UI Developer
+- **Ankit Dhanawat** 
+  - Flutter UI Developer
   - Ankit specializes in crafting the user interface for our applications, ensuring a seamless and engaging user experience.
-- **Jayesh Joshi** Flutter UI Developer
+- **Jayesh Joshi**
+  - Flutter UI Developer
   - Jayesh works alongside Ankit to design and implement the UI components, focusing on creating intuitive and responsive interfaces.
 
 ## License
