@@ -1,0 +1,13 @@
+I am building a project with my friends and the project is this, I want to create a chat type flutter application which would work with Gemini API as the ai chatbot. I will finetune the Gemini API to my specific need. I want to create a chatbot where a user can ask anything about hardware components like CPU, RAM, SSD and Motherboard and get helpful guides for their pc build. they can help with compatibility and meet user sastification. I will ask first about the specification like power and size or ram and memory the user is looking for and the chat bot will tell which combination to work with
+
+
+I have data of the CPU right now and ai still work on the data of the other components. but how can we determine weather a CPU will work with certain Motherboard or RAM or SSD or not
+
+
+create parameters for every component combination like 
+CPU - RAM, 
+CPU - Motherboard,
+CPU - SSD,
+RAM - Motherboard,
+RAM - SSD,
+SSD - Motherboard
