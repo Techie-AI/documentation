@@ -1,5 +1,10 @@
 # Documentation for `ChatScreen.dart`
 
+## Related Documentation
+- [Documentation for `ChatMessage` Class](frontend/Documentation_for_chat_message.md) - Details the `ChatMessage` class and its attributes.
+- [Documentation for `ChatService` Class](frontend/Documentation_for_chat_service.md) - Describes the `ChatService` class, its methods, and interactions with the AI model.
+- [Documentation for Predefined Questions and Hardware Options](frontend/Documentation_for_options_and_Questions.md) - Provides information on predefined questions and hardware options used in the chatbot.
+
 ## Overview
 This Dart file defines a Flutter widget `ChatScreen` that represents a chatbot interface. It interacts with users by asking predefined questions about their PC hardware needs and uses the `ChatService` to provide personalized recommendations based on their responses.
 
@@ -138,7 +143,4 @@ Displays the chat messages in a list, with different alignments and styles for u
 ### Input Field
 Includes a text field for user input and a send button. The input field is focused automatically after each message is sent.
 
-## Related Documentation
-- [Documentation for `ChatMessage` Class](frontend/Documentation_for_chat_message.md) - Details the `ChatMessage` class and its attributes.
-- [Documentation for `ChatService` Class](frontend/Documentation_for_chat_service.md) - Describes the `ChatService` class, its methods, and interactions with the AI model.
-- [Documentation for Predefined Questions and Hardware Options](frontend/Documentation_for_options_and_Questions.md) - Provides information on predefined questions and hardware options used in the chatbot.
+
